@@ -1,14 +1,12 @@
-# Welcome to your campus commute project
+# Campus Commute - Real-Time Bus Tracking PWA
 
-## Project info
+## Project Info
 
-**Use your preferred IDE**
+This is a modern, responsive web application for real-time campus bus tracking.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. 
+## How to Get Started
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+To work locally with this project, follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
@@ -24,7 +22,7 @@ npm i
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+You can also edit files directly in GitHub or use GitHub Codespaces:
 
 - Navigate to the desired file(s).
 - Click the "Edit" button (pencil icon) at the top right of the file view.
@@ -48,6 +46,6 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+## How to Deploy This Project
 
-
+This project can be deployed to various hosting platforms such as Vercel, Netlify, GitHub Pages, or any other service that supports static site hosting.
